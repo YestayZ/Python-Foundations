@@ -1,0 +1,5 @@
+Apple Inc 100000 5000
+Google Inc 90000 4000
+Oil_solutions OOO 70000 8000
+Bitkonniki OOO 60000 9000
+SuperApp OOO 5000 6000
